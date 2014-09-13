@@ -6,7 +6,8 @@
     "Pierre Inglebert <pierre.inglebert@gmail.com>",
     "Jonathan Ong <jonathanrichardong@gmail.com>",
     "Chanon Sajjamanochai <chanon.s@gmail.com>",
-    "Juliano Julio <julianojulio@gmail.com>"
+    "Juliano Julio <julianojulio@gmail.com>",
+    "Daniel Gasienica <daniel@gasienica.ch>"
   ],
   "description": "High performance Node.js module to resize JPEG, PNG and WebP images using the libvips library",
   "scripts": {
