@@ -560,6 +560,7 @@ async.series([
   function(done) {
     sharp(inputGif).resize(320, 80).toFile(path.join(fixturesPath, 'output.zoinks'), function(err, info) {
       assert(!!err);
+      done();
     });
   },
   // Metadata - JPEG
